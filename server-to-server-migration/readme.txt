@@ -1,4 +1,5 @@
 === Server-to-Server Migration ===
+Author : Rida Noor
 Contributors: Wali and Zaira
 Tags: db migration, migration, wordpress migration, db backup, db restore, website backup, website restore, website migration, website deploy, wordpress deploy, db backup, database export, database serialization, database find replace
 Requires at least: 3.3
